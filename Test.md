@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @umgonji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# test-1
+github practice
 
-<!---
-umgonji/umgonji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 순서있는
+1. 순서
+2. 있는
+3. 파일?
+***
+줄삽입
